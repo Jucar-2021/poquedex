@@ -907,6 +907,12 @@
                     "num": "025",
                     "name": "Pikachu"
                 }
+            ],
+            "nex_evolution":[
+                {
+                    "num": "0",
+                    "name": "This is the final Evolution"
+                }
             ]
         },
         {
