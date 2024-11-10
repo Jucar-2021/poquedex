@@ -440,6 +440,12 @@
                     "num": "011",
                     "name": "Metapod"
                 }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
+                }
             ]
         },
         {
@@ -551,6 +557,12 @@
                 {
                     "num": "014",
                     "name": "Kakuna"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
                 }
             ]
         },
@@ -771,6 +783,12 @@
                     "num": "021",
                     "name": "Spearow"
                 }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
+                }
             ]
         },
         {
@@ -827,6 +845,12 @@
                 {
                     "num": "023",
                     "name": "Ekans"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
                 }
             ]
         },
@@ -942,6 +966,12 @@
                     "num": "027",
                     "name": "Sandshrew"
                 }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
+                }
             ]
         },
         {
@@ -1046,6 +1076,12 @@
                 {
                     "num": "030",
                     "name": "Nidorina"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
                 }
             ]
         },
@@ -1152,6 +1188,12 @@
                     "num": "033",
                     "name": "Nidorino"
                 }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
+                }
             ]
         },
         {
@@ -1209,6 +1251,12 @@
                 {
                     "num": "035",
                     "name": "Clefairy"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
                 }
             ]
         },
@@ -1269,6 +1317,12 @@
                     "num": "037",
                     "name": "Vulpix"
                 }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
+                }
             ]
         },
         {
@@ -1327,6 +1381,12 @@
                 {
                     "num": "039",
                     "name": "Jigglypuff"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
                 }
             ]
         },
@@ -1390,6 +1450,12 @@
                 {
                     "num": "041",
                     "name": "Zubat"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
                 }
             ]
         },
@@ -1568,6 +1634,12 @@
                     "num": "046",
                     "name": "Paras"
                 }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
+                }
             ]
         },
         {
@@ -1631,6 +1703,12 @@
                     "num": "048",
                     "name": "Venonat"
                 }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
+                }
             ]
         },
         {
@@ -1690,6 +1768,12 @@
                     "num": "050",
                     "name": "Diglett"
                 }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
+                }
             ]
         },
         {
@@ -1744,6 +1828,12 @@
                 {
                     "num": "052",
                     "name": "Meowth"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
                 }
             ]
         },
@@ -1801,6 +1891,12 @@
                 {
                     "num": "054",
                     "name": "Psyduck"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
                 }
             ]
         },
@@ -1861,6 +1957,12 @@
                     "num": "056",
                     "name": "Mankey"
                 }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
+                }
             ]
         },
         {
@@ -1919,6 +2021,12 @@
                 {
                     "num": "058",
                     "name": "Growlithe"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "0",
+                    "name": "Es la evolucion final"
                 }
             ]
         },
