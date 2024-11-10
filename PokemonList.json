@@ -64,7 +64,7 @@
                 "Flying",
                 "Psychic"
             ],
-            "next_evolution": [
+            "prev_evolution": [
                 {
                     "num": "001",
                     "name": "Bulbasaur"
@@ -753,7 +753,7 @@
             "id": 21,
             "num": "021",
             "name": "Spearow",
-            "img": "https://www.serebii.net/pokemongo/pokemon/021.png",
+            "img": "http://www.serebii.net/pokemongo/pokemon/021.png",
             "type": [
                 "Normal",
                 "Flying"
