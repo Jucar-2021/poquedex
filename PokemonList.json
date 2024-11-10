@@ -1497,10 +1497,10 @@
                     "num": "043",
                     "name": "Oddish"
                 },
-             "next_evolution": [
+            "next_evolution": [
                 {
-                    "num": "044",
-                    "name": "Gloom"
+                    "num": "0",
+                    "name": "This is the final Evolution"
                 }
             ]
         },
