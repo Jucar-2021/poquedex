@@ -64,7 +64,7 @@
                 "Flying",
                 "Psychic"
             ],
-            "prev_evolution": [
+            "next_evolution": [
                 {
                     "num": "001",
                     "name": "Bulbasaur"
