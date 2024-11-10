@@ -369,6 +369,45 @@
                     "name": "Butterfree"
                 }
             ]
-        }
+        },
+        {
+      "id": 11,
+      "num": "011",
+      "name": "Metapod",
+      "img": "https://www.serebii.net/pokemongo/pokemon/011.png",
+      "type": ["Bug"],
+      "height": "0.71 m",
+      "weight": "9.9 kg",
+      "candy": "Caterpie Candy",
+      "candy_count": 50,
+      "egg": "2 km",
+      "spawn_chance": 0.187,
+      "avg_spawns": 18.7,
+      "spawn_time": "02:11",
+      "multipliers": [3.55],
+      "weaknesses": ["Fire", "Flying", "Rock"],
+      "prev_evolution": [{"num": "010", "name": "Caterpie"}],
+      "next_evolution": [{"num": "012", "name": "Butterfree"}]
+    },
+    {
+      "id": 12,
+      "num": "012",
+      "name": "Butterfree",
+      "img": "https://www.serebii.net/pokemongo/pokemon/012.png",
+      "type": ["Bug", "Flying"],
+      "height": "1.09 m",
+      "weight": "32.0 kg",
+      "candy": "Caterpie Candy",
+      "egg": "Not in Eggs",
+      "spawn_chance": 0.022,
+      "avg_spawns": 2.2,
+      "spawn_time": "05:23",
+      "multipliers": null,
+      "weaknesses": ["Fire", "Flying", "Rock", "Electric", "Ice"],
+      "prev_evolution": [
+        {"num": "010", "name": "Caterpie"},
+        {"num": "011", "name": "Metapod"}
+      ]
+     }
     ]
 }
